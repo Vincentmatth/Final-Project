@@ -173,17 +173,17 @@
             <div class="row pb-70">
                 <div class="col-lg-5 col-12 header-wrap copywriting">
                     <p class="story">
-                        GOOD INVESTMENT
+                        PILIHAN TERBAIK
                     </p>
                     <h2 class="primary-header text-white">
-                        Start Your Journey
+                        Hematlah dalam Pengeluaranmu
                     </h2>
                     <p class="support">
-                        Learn how to speaking in public to demonstrate your <br> final project and receive the important feedbacks
+                        Hematlah waktu, perjalanan, uang, dan lainnya! <br> Gabunglah dengan Subscription MRT.ID dengan harga lebih murah.
                     </p>
                     <p class="mt-5">
                         <a href="#" class="btn btn-master btn-thirdty me-3">
-                            View Syllabus
+                            My Subscriptions
                         </a>
                     </p>
                 </div>
@@ -192,15 +192,15 @@
                         <div class="col-lg-6 col-12">
                             <div class="table-pricing paket-gila">
                                 <p class="story text-center">
-                                    GILA BELAJAR
+                                    MRT Unlimited
                                 </p>
                                 <h1 class="price text-center">
-                                    $280K
+                                    Rp.500.000
                                 </h1>
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        Pro Techstack Kit
+                                        Penghematan Biaya
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -208,7 +208,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        iMac Pro 2021 & Display
+                                        Tidak Perlu Membeli Tiket Lagi
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -216,7 +216,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        1-1 Mentoring Program
+                                        Dapat Point 2x Setiap Perjalanan
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -224,7 +224,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        Final Project Certificate
+                                        Tempat Duduk Terjamin
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -232,7 +232,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        Offline Course Videos
+                                        Dapatkan Promo Dari Bisnis Mitra Lainnya
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -240,7 +240,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        Future Job Opportinity
+                                        Dapat Digunakan Pada Transportasi Umum Lainnya
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -248,7 +248,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        Premium Design Kit
+                                        Dapatkan Perjalanan Gratis
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -256,14 +256,14 @@
                                 <div class="item-benefit-pricing">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        Website Builder
+                                        Tidak Perlu Takut Kehabisan Saldo
                                     </p>
                                     <div class="clear"></div>
                                 </div>
                                 <p>
                                     <a href="{{route('checkout.create', 'gila-belajar')}}" 
                                     class="btn btn-master btn-primary w-100 mt-3">
-                                        Take This Plan
+                                        Take This Subscription
                                     </a>
                                 </p>
                             </div>
@@ -271,15 +271,15 @@
                         <div class="col-lg-6 col-12">
                             <div class="table-pricing paket-biasa">
                                 <p class="story text-center">
-                                    BARU MULAI
+                                    MRT x Viu
                                 </p>
                                 <h1 class="price text-center">
-                                    $140K
+                                    Rp.250.000
                                 </h1>
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        1-1 Mentoring Program
+                                        Penghematan Biaya
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -287,7 +287,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        Final Project Certificate
+                                        Dapat Point 2x Setiap Perjalanan
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -295,7 +295,7 @@
                                 <div class="item-benefit-pricing mb-4">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        Offline Course Videos
+                                        Dapatkan Langganan Viu Selama 1 Bulan
                                     </p>
                                     <div class="clear"></div>
                                     <div class="divider"></div>
@@ -303,13 +303,13 @@
                                 <div class="item-benefit-pricing">
                                     <img src="{{asset('images/ic_check.svg')}}" alt="">
                                     <p>
-                                        Future Job Opportinity
+                                        Nikmati Viu Tanpa Kuota
                                     </p>
                                     <div class="clear"></div>
                                 </div>
                                 <p>
                                     <a href="{{route('checkout.create','gila-belajar')}}" class="btn btn-master btn-secondary w-100 mt-3">
-                                        Start With This Plan
+                                        Start With This Subscription
                                     </a>
                                 </p>
                             </div>
@@ -353,7 +353,7 @@
                                             Fanny
                                         </h4>
                                         <p class="role">
-                                            Developer at Google
+                                            BA Kosmetik Watson
                                         </p>
                                     </div>
                                 </div>
@@ -369,10 +369,10 @@
                                     <img src="{{asset('images/angga.png')}}" class="photo" alt="">
                                     <div class="info">
                                         <h4 class="name">
-                                            Angga
+                                            Citra
                                         </h4>
                                         <p class="role">
-                                            CEO at BWA Corp
+                                            Assistant Manager SPA
                                         </p>
                                     </div>
                                 </div>
@@ -388,10 +388,10 @@
                                     <img src="{{asset('images/beatrice.png')}}" class="photo" alt="">
                                     <div class="info">
                                         <h4 class="name">
-                                            Beatrice
+                                            Angelo
                                         </h4>
                                         <p class="role">
-                                            QA at Facebook
+                                            Barista Part Time
                                         </p>
                                     </div>
                                 </div>

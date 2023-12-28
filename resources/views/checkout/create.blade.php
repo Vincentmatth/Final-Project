@@ -6,10 +6,10 @@
             <div class="row text-center pb-70">
                 <div class="col-lg-12 col-12 header-wrap">
                     <p class="story">
-                        YOUR FUTURE CAREER
+                        Pilihan Terbaik!
                     </p>
                     <h2 class="primary-header">
-                        Start Invest Today
+                        Subscription Yang Dipilih
                     </h2>
                 </div>
             </div>
@@ -20,10 +20,12 @@
                             <div class="item-bootcamp">
                                 <img src="{{asset('images/item_bootcamp.png')}}" alt="" class="cover">
                                 <h1 class="package">
-                                    {{$camp->title}}
+                                    <p strong>
+                                        MRT Unlimited
+                                    </p>
                                 </h1>
                                 <p class="description">
-                                    Bootcamp ini akan mengajak Anda untuk belajar penuh mulai dari pengenalan dasar sampai membangun sebuah projek asli
+                                    Subscription ini untuk Menghemat waktu, perjalanan, uang, dan lainnya! Gabunglah dengan Subscription MRT.ID dengan harga lebih murah.
                                 </p>
                             </div>
                         </div>

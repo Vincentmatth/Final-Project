@@ -15,8 +15,8 @@ class CampTableSeeder extends Seeder
     {
         $camps = [
             [
-                'title'     => 'Gila Belajar',
-                'slug'      => 'gila-belajar',
+                'title'     => 'MRT - Unlimited',
+                'slug'      => 'MRT Unlimited',
                 'price'     => 200,
                 'created_at'=> date('Y-m-d H:i:s', time()),
                 'updated_at'=> date('Y-m-d H:i:s', time()),
